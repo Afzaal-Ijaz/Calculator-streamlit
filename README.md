@@ -1,2 +1,2 @@
 # Calculator-streamlit
-streamlit calculaor
+streamlit calculator  10
